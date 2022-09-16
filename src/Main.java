@@ -12,5 +12,6 @@ public class Main {
         System.out.println(horse2.getAge());
         System.out.println(horse3.getType());
         System.out.println(horse4.getName());
+        
     }
 }
